@@ -11,6 +11,3 @@ Welcome to Python3!
 
 <3, Juno
 """
-
-
-print(snake_string * how_many_snakes)
